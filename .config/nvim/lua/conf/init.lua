@@ -1,0 +1,5 @@
+require("conf.remap")
+require("conf.set")
+require("conf.packer")
+require("conf.lsp")
+require("conf.colorschema")
